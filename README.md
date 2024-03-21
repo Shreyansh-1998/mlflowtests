@@ -38,7 +38,4 @@ export password
 remote_server_uri= "your uri"
 mlflow.set_tracking_uri(remote_server_uri)
 ```
-
-![alt text](<Screenshot 2024-03-21 at 1.56.20 PM.png>)
-
-![alt text](image.png)
+Try using AWS or google instances to do the same.
