@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shrey_98/Desktop/mlflow/mlruns/0/608b1877d61545938c5474ffe5e362af/artifacts
+end_time: 1711024837789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 608b1877d61545938c5474ffe5e362af
+run_name: carefree-lynx-95
+run_uuid: 608b1877d61545938c5474ffe5e362af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711024835820
+status: 3
+tags: []
+user_id: shrey_98
