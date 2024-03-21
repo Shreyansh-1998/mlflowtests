@@ -3,10 +3,11 @@
 ### MLflow is an open-source platform, purpose-built to assist machine learning practitioners and teams in handling the complexities of the machine learning process. MLflow focuses on the full lifecycle for machine learning projects, ensuring that each phase is manageable, traceable, and reproducible.
 
 Follow this for more [https://mlflow.org/docs/latest/index.html]
+
+
 Important: Create a virtual environment 
 ```
  conda create -n your_env python==3.9 -y
- ```
  conda activate your_env
  ```
 
