@@ -5,7 +5,7 @@
 Follow this for more [https://mlflow.org/docs/latest/index.html]
 
 
->>>>>>> 87d466ae052bc8d8d988c461e9b20d57798e3f3d
+
 Important: Create a virtual environment 
 ```
  conda create -n your_env python==3.9 -y
